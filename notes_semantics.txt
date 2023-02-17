@@ -1,0 +1,24 @@
+
+
+
+1.
+
+similarities between cat, monkey and banana
+
+
+cat monkey 0.5929930210113525
+cat banana 0.2235882580280304
+monkey banana 0.4041501581668854
+
+Cat and monkey seem to be similar because they are both animal 
+Monkey and banana have a higher similarity than cat and banana. So we can assume that the model already puts together that monkeys eat bananas whereas cats do not eat banana.
+
+For my example, I added milk in the list 
+
+cat milk 0.22972983121871948
+monkey milk 0.16944406926631927
+
+cat and milk have higher similarity than monkey and milk as cats can drink milk as their meal throughout their life but monkeys will only take milk when they are babies
+ 
+2. 
+Using en_core_web_sm model gives lower similarity values compared to those given by en_core_web_md model
